@@ -9,14 +9,10 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 > Contact form
 
-{% include site-form.html %}
-
 
 {% include site-form2.html %}
 
 
-
-Email: adedotunarogunda@u.boisestate.edu
 
 GitHub: https://github.com/AdeArogundade
 
