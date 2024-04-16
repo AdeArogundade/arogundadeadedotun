@@ -12,11 +12,6 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 {% include site-form.html %}
 
 
-[{% raw %}{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/DotmanW)
-
-
-[{% raw %}{% include icon.html id="github" title="github" %}](https://github.com/adearogundade)
-
 
 
 Email: adedotunarogunda@u.boisestate.edu
