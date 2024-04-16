@@ -66,7 +66,7 @@ collections:
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
       Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://adearogundade.github.io/arogundadeadedotun/assets/Images/Home_Cover_1.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -92,7 +92,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Adedotun Adedayo Arogundade" # Site name or title, also used in jekyll-seo-tag
-logo: "https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_white.png" # Site logo, also used in jekyll-seo-tag
+logo: "https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png" # Site logo, also used in jekyll-seo-tag
 description: "This is my personal website" # Site description and default description, also used in jekyll-seo-tag
 url: "https://adearogundade.github.io/arogundadeadedotun" # Site url, also used in jekyll-seo-tag
 baseurl: "https://adearogundade.github.io/arogundadeadedotun"
@@ -108,14 +108,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: 'assets/logos/Adedotun_Arogundade_logo_white.png'
-  32: 'assets/logos/Adedotun_Arogundade_logo_white.png'
-  96: 'assets/logos/Adedotun_Arogundade_logo_white.png'
-  120: 'assets/logos/Adedotun_Arogundade_logo_white.png'
-  144: 'assets/logos/Adedotun_Arogundade_logo_white.png'
-  180: 'assets/logos/Adedotun_Arogundade_logo_white.png'
-  512: 'assets/logos/Adedotun_Arogundade_logo_white.png'
-  1024: 'assets/logos/Adedotun_Arogundade_logo_white.png'
+  16: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
+  32: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
+  96: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
+  120: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
+  144: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
+  180: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
+  512: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
+  1024: 'https://adearogundade.github.io/arogundadeadedotun/assets/logos/Adedotun_Arogundade_logo_black.png'
 
 # 9. Site navigation
 navigation_header:
