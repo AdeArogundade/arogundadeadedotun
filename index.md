@@ -1,12 +1,14 @@
 ---
-title: Adedotun Adedayo Arogundade
+title: About Me
 feature_text: |
   ## Adedotun Adedayo Arogundade
 feature_image: "https://adearogundade.github.io/arogundadeadedotun/assets/Images/Home_Cover_2.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+
+Hi and welcome! My name is Adedotun A. Arogundade. I am a master's student and a member of the [Bittleston Lab] group (https://www.bittlestonlab.com/) at [Boise State University](https://www.boisestate.edu/). My research interest is in microbial ecology, I believe that understanding the relationship between plants and microbes is pivotal for ensuring plant health and overall ecosystem functioning. Using cutting-edge genomic and bioinformatic tools, my research focuses on studying these interactions to develop innovative strategies for harnessing beneficial microbial communities.
+
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
