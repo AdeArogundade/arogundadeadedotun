@@ -122,13 +122,13 @@ navigation_header:
 - title: Home
   url: https://adearogundade.github.io/arogundadeadedotun/index
 - title: Values
-  url: /values/
+  url: https://adearogundade.github.io/arogundadeadedotun/index/values
 - title: Research
-  url: /research/
+  url: https://adearogundade.github.io/arogundadeadedotun/research
 - title: Blog
-  url: /blog/
+  url: https://adearogundade.github.io/arogundadeadedotun/index/blog/
 - title: Search
-  url: /search/
+  url: https://adearogundade.github.io/arogundadeadedotun/index/search
 - title: Visit Bittleston Lab
   url: https://www.bittlestonlab.com/
 
