@@ -7,4 +7,4 @@ excerpt: ""
 ---
 
 
-# 
+# Exploring sagebrush microbial metagenomes from deep, host-derived sequencing
