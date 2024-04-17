@@ -17,6 +17,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 [{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/DotmanW) [{% include icon.html id="github" title="github" %}](https://github.com/adearogundade)
 
+{% include button.html text="GitHub" icon="github" link="https://github.com/adearogundade" color="#0366d6" %} {% include button.html text="X (Twitter)" icon="twitter" link="https://twitter.com/DotmanW" color="#0d94e7" %}
 
 
 
