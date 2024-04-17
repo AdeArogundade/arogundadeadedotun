@@ -13,6 +13,12 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 {% include site-form2.html %}
 
 
+> Social media:
+
+[{% include icon.html id="twitter" title="twitter" %}](https://twitter.com/DotmanW) [{% include icon.html id="github" title="github" %}](https://github.com/adearogundade)
+
+
+
 
 GitHub: https://github.com/AdeArogundade
 
