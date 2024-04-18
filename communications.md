@@ -9,12 +9,6 @@ aside: true
 
 |
 
-<div id="twitter-feed">
-    {% include twitter_widget.html %}
-</div>
-
-|
-
 ### Graduate Showcase Presentation
 >>> April 10th, 2024
 
