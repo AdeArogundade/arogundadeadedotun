@@ -12,6 +12,9 @@ excerpt: "My Personal Website"
 
 {% include site-form2.html %}
 
+|
+
+{% include twitter_widget.html %}
 
 
 
