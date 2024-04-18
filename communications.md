@@ -8,7 +8,10 @@ excerpt: ""
 
 |
 
-<div ng-include="'https://adearogundade.github.io/arogundadeadedotun/_includes/twitter_widget.html'"></div>
+<div class="sidebar">
+    <h2>Latest Post</h2>
+    <div ng-include="'https://adearogundade.github.io/arogundadeadedotun/_includes/twitter_widget.html'"></div>
+</div>
 
 |
 
