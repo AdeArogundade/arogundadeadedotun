@@ -9,7 +9,7 @@ excerpt: ""
 |
 
 <div class="sidebar">
-    {% include site-form2.html %}
+    {% include twitter_widget.html %}
 </div>
 
 |
