@@ -5,3 +5,25 @@ feature_text: |
 feature_image: "https://adearogundade.github.io/arogundadeadedotun/assets/Images/Home_Cover_1.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
+
+
+
+
+
+
+## How to add Twitter Widget to your website
+
+1. Go to Twitter Publish:
+Visit the Twitter Publish website : https://publish.twitter.com/
+
+2. Choose Widget Type:
+Select the type of widget you want to embed, such as a profile, tweet, or timeline.
+
+3. Customize the Widget:
+Customize the appearance and content of the widget according to your preferences.
+
+4. Get Embed Code:
+After customizing, Twitter will generate the embed code for your widget.
+
+5. Embed Code in Your Website:
+Copy the generated HTML code and paste it into the HTML source code of your website where you want the widget to appear.
