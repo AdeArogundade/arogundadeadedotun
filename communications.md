@@ -21,7 +21,7 @@ I presented a poster on my research on _Exploring sagebrush microbial metagenome
 >>> March 11th, 2024
 
 I am glad to announce that I successfully defended my Master's thesis at Boise State University. Special thanks to my advisor, Dr. Leonora Bittleston, members of my committee: Dr. Sven Buerki and Dr. Kevin Feris. Finally, to all the members of the Bittleston Lab group.
-{% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_2.jpg" caption="Credit: Rihanat Olabisi" position="left" width="300" height="800" %} {% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_1.jpg" caption="Credit: Rihanat Olabisi" position="right" width="300" height="800" %}
+{% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_2.jpg" caption="Credit: Rihanat Olabisi" position="left" width="300" height="800" %} {% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_1.jpg" caption="Credit: Phebian Odufuwa" position="right" width="300" height="800" %}
 
 
 
