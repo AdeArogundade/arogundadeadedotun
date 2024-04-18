@@ -9,6 +9,14 @@ aside: false
 
 |
 
+<div id="twitter-widget" class="twitter-container">
+    <a class="twitter-timeline" href="https://twitter.com/DotmanW?ref_src=twsrc%5Etfw">Tweets by Adedotun A. Arogundade</a>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
+|
+
 {% include twitter_widget.html %}
 
 |
