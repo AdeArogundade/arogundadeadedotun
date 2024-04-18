@@ -13,11 +13,11 @@ excerpt: ""
     top: 50%;
     right: 0;
     transform: translateY(-50%);
-    width: 300px; /* Adjust width as needed */
-    height: 100%; /* Adjust height as needed */
+    width: 300px; 
+    height: 100%; 
     background-color: #f9f9f9;
-    overflow-y: auto; /* Enable scrolling if content overflows */
-    z-index: 999; /* Ensure sidebar appears above other content */ %}
+    overflow-y: auto; 
+    z-index: 999; %}
 </div>
 
 |
