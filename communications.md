@@ -9,7 +9,7 @@ aside: false
 
 |
 
-<div id="twitter-widget" class="twitter-feed">
+<div id="twitter-feed" class="twitter-feed">
     <a class="twitter-timeline" href="https://twitter.com/DotmanW?ref_src=twsrc%5Etfw">Tweets by Adedotun A. Arogundade</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
