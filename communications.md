@@ -10,9 +10,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 ### Masters Thesis Defense
 >>> March 11th, 2024
-
-Glad to defend my Masters thesis at Boise State University. Special thanks to my advisor, Dr. Leonora Bittleston, members of my committee: Drs. Sven Buerki and Kevin Feris. Finally, to all the members of the Bittleston Lab group.
-
-{% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_1.jpg" caption="Credit: Rihanat Olabisi" position="left" width="300" height="800" %} {% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_1.jpg" caption="Credit: Rihanat Olabisi" position="right" width="300" height="800" %}
+I am glad to announce that I successfully defended my Master's thesis at Boise State University. Special thanks to my advisor, Dr. Leonora Bittleston, members of my committee: Drs. Sven Buerki and Kevin Feris. Finally, to all the members of the Bittleston Lab group.
+{% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_2.jpg" caption="Credit: Rihanat Olabisi" position="left" width="300" height="800" %} {% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Masters_Defense_1.jpg" caption="Credit: Rihanat Olabisi" position="right" width="300" height="800" %}
 
 
