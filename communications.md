@@ -9,8 +9,7 @@ excerpt: ""
 |
 
 <div class="sidebar">
-    <h2>Latest Post</h2>
-    <div ng-include="'https://adearogundade.github.io/arogundadeadedotun/_includes/twitter_widget.html'"></div>
+    {% include site-form2.html %}
 </div>
 
 |
