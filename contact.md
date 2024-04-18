@@ -14,10 +14,6 @@ excerpt: "My Personal Website"
 
 |
 
-{% include twitter_widget.html %}
-
-
-
 > Social media:
 
 
