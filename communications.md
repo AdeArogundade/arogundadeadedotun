@@ -4,6 +4,7 @@ feature_text: |
   
 feature_image: "https://adearogundade.github.io/arogundadeadedotun/assets/Images/Communications_Cover.jpg"
 excerpt: ""
+aside: true
 ---
 
 |
