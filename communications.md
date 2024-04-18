@@ -3,8 +3,12 @@ title:
 feature_text: |
   
 feature_image: "https://adearogundade.github.io/arogundadeadedotun/assets/Images/Communications_Cover.jpg"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: ""
 ---
+
+|
+
+<div ng-include="'https://adearogundade.github.io/arogundadeadedotun/_includes/twitter_widget.html'"></div>
 
 |
 
