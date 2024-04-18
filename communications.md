@@ -4,20 +4,8 @@ feature_text: |
   
 feature_image: "https://adearogundade.github.io/arogundadeadedotun/assets/Images/Communications_Cover.jpg"
 excerpt: ""
-aside: false
+aside: true
 ---
-
-|
-
-<div id="twitter-feed" class="twitter-feed">
-    <a class="twitter-timeline" href="https://twitter.com/DotmanW?ref_src=twsrc%5Etfw">Tweets by Adedotun A. Arogundade</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-
-|
-
-{% include twitter_widget.html %}
 
 |
 
