@@ -7,4 +7,4 @@ excerpt: ""
 ---
 
 
-> Exploring sagebrush microbial metagenomes from deep, host-derived sequencing
+> [Exploring sagebrush microbial metagenomes from deep, host-derived sequencing](https://www.boisestate.edu/events/event/graduate-defense-adedotun-arogundade/)
