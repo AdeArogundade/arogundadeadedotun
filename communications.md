@@ -9,6 +9,10 @@ aside: false
 
 |
 
+{% include twitter_widget.html %}
+
+|
+
 ### Graduate Showcase Presentation
 >>> April 10th, 2024
 
