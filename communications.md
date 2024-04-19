@@ -13,7 +13,9 @@ aside: true
 >>> April 10th, 2024
 
 I presented a poster on my research on _Exploring sagebrush microbial metagenomes from deep, host-derived sequencing_ at the annual Graduate Student Showcase event at Boise State University.
-{% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Graduate_Showcase_2024_1.jpg" caption="Credit: Elle Horwath" position="left" width="300" height="800" %} {% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Graduate_Showcase_2024_2.JPG" caption="Credit: Leonora Bittleston" position="right" width="300" height="800" %}
+{% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Graduate_Showcase_2024_1.jpg" caption="Credit: Elle Horwath" position="center" width="300" height="800" %} 
+
+<!-- {% include figure.html image="https://adearogundade.github.io/arogundadeadedotun/assets/Images/Graduate_Showcase_2024_2.JPG" caption="Credit: Leonora Bittleston" position="right" width="300" height="800" %} -->
 
 |
 
